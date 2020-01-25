@@ -19,4 +19,4 @@
 <H2>SYNTAX</H2>
 <H4>->./rsync_brute.sh username host-ip port wordlist module_directory <H4>
 
-![Test Image 3](syntax.png)
+![Test Image 3](syn.png)
