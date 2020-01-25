@@ -1,4 +1,4 @@
-# <H1>RSYNC_BRUTE<H1>
+# <H1>RSYNC_BRUTE<H1>                       <img src="https://www.hackthebox.eu/badge/image/5943" alt="Hack The Box">
 <H1><U>RSYNC SERVICE BRUTEFORCER</U></H1>
 
 [+]Fast rsync service bruteforcer
