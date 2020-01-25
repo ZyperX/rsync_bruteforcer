@@ -5,6 +5,7 @@
 
 [+]Bruteforcing Rsync Service
 ![Test Image 1](bruting.png)
+
 [+]Found valid password
 ![Test Image 2](complete.png)
 
@@ -16,6 +17,6 @@
 <H4>->chmod a+x rsync_brute.sh</h4>
 
 <H2>SYNTAX</H2>
-<H4>->./smb_map_brute.sh username ip port wordlist module_directory <H4>
+<H4>->./rsync_brute.sh username host-ip port wordlist module_directory <H4>
 
 ![Test Image 3](syntax.png)
