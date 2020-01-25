@@ -8,8 +8,9 @@
 [+]Found valid password
 ![Test Image 2](complete.png)
 
+<h2>REQUIREMENTS</H2>
 <H4>->RSYNC</H4>
-<H2> sudo apt-get install rsync </H2>
+<H4> sudo apt-get install rsync </H4>
 
 <H2>INSTALLATION</H2>
 <H4>->chmod a+x rsync_brute.sh</h4>
