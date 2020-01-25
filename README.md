@@ -1,7 +1,7 @@
 # rsync_brute
 <H1><U>RSYNC SERVICE BRUTEFORCER</U></H1>
 
-<I>[+]Fast rsyn service bruteforcer</I>
+[+]Fast rsync service bruteforcer
 
 +Bruteforcing Rsync Service
 ![Test Image 1](bruting.png)
